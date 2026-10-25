@@ -19,8 +19,7 @@ heart_disease_report/
 
 ## Dữ liệu
 
-Notebook yêu cầu file `heart.csv` trong thư mục làm việc. Output hiện có ghi nhận 303 dòng và 14 cột. Repository gốc chưa ghi URL nguồn dữ liệu và giấy phép; người nộp cần bổ sung thông tin này trước khi công bố hoặc sử dụng cho báo cáo chính thức.
-
+Notebook yêu cầu file `heart.csv` trong thư mục làm việc. Output hiện có ghi nhận 303 dòng và 14 cột. 
 ## Cách chạy
 
 1. Mở notebook trên Jupyter hoặc Google Colab.
